@@ -1,7 +1,9 @@
 package com.bridgelabz.employewagecomputationprograms;
 
-public class EmployeWageComputationPrograms {
-     public static void main(String[] args) {
+public class EmployeWageComputationPrograms 
+      {
+     public static void main(String[] args) 
+     {
 	
 	
     	 int IS_FULL_TIME = 1;
